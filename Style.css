@@ -1,0 +1,23 @@
+* {
+   box-sizing: border-box;
+}
+body {
+   background-color:aqua;
+}
+.container {
+width: 100%;
+position:fixed;
+border: 2px solid white;
+text-align: center;
+}
+.item-container {
+margin: 0 auto;
+border: 1px solid red;
+width: 50%;
+background-color: white;
+}
+a {
+   font-weight: bold;
+   color: black;
+   text-decoration: none;
+}
